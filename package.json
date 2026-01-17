@@ -1,6 +1,7 @@
 {
-  "name": "shoe-shop",
-  "version": "0.1.0",
+  "name": "stepstyle",
+  "version": "1.0.0",
+  "description": "StepStyle - Premium footwear and shoes online store. Discover the latest collection of high-quality shoes for every occasion.",
   "private": true,
   "scripts": {
     "dev": "next dev",

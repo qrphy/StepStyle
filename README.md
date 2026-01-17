@@ -1,6 +1,20 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# StepStyle - Premium Footwear Online Store
+
+Welcome to StepStyle, your destination for premium quality shoes and footwear. Browse our exclusive collection of stylish and comfortable shoes for every occasion.
+
+## Project Overview
+
+StepStyle is a modern e-commerce platform built with Next.js, offering a curated selection of premium footwear products. Our mission is to provide customers with the perfect shoes that combine style, comfort, and quality.
+
+### Features
+- Elegant product showcase
+- Responsive design for all devices
+- Dark mode support
+- Fast and optimized performance
 
 ## Getting Started
+
+To run the StepStyle store locally, follow these steps:
 
 First, run the development server:
 
