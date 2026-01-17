@@ -7,11 +7,11 @@ export default function Header() {
 
   return (
     <div className="w-full py-6 px-4 bg-white text-black dark:text-white dark:bg-black border-b border-zinc-800">
-      <div className="flex items-center justify-between max-w-5xl mx-auto">
-        <h1 className="text-left text-2xl md:text-3xl font-normal">StepStyle - Premium Footwear</h1>
+      <div className="flex items-center justify-between max-w-8xl mx-auto" style={{ fontFamily: "Poppins" }}>
+        <h1 className="text-left text-2xl md:text-3xl font-semibold flex-1">StepStyle - Premium Footwear</h1>
         
         {/* Desktop Navigation */}
-        <nav className="hidden md:flex space-x-5 text-lg font-normal">
+        <nav className="hidden md:flex items-center space-x-7 text-lg font-medium">
           <a href="#" className="hover:underline">Home</a>
           <a href="#" className="hover:underline">Collections</a>
           <a href="#" className="hover:underline">New Arrivals</a>
