@@ -6,9 +6,9 @@ export default function Header() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <div className="w-full py-6 px-4 bg-white text-black dark:text-white dark:bg-black border-b border-zinc-800">
+    <div className="w-full py-6 px-4 bg-black text-white border-b border-zinc-800">
       <div className="flex items-center justify-between max-w-8xl mx-auto" style={{ fontFamily: "Poppins" }}>
-        <h1 className="text-left text-2xl md:text-3xl font-semibold flex-1">StepStyle - Premium Footwear</h1>
+        <h1 className="text-left text-sm md:text-3xl font-semibold flex-1">StepStyle - Premium Footwear</h1>
         
         {/* Desktop Navigation */}
         <nav className="hidden md:flex items-center space-x-7 text-lg font-medium">
